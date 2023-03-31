@@ -1,6 +1,6 @@
 Name:		texlive-emf
 Version:	42023
-Release:	1
+Release:	2
 Summary:	Support for the EMF symbol
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/emf
