@@ -3,7 +3,7 @@ Version:	42023
 Release:	2
 Summary:	Support for the EMF symbol
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/emf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/emf
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/emf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/emf.doc.r%{version}.tar.xz
